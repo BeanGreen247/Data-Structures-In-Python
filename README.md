@@ -20,12 +20,12 @@ d = {"a":1, "b":2}
 ```
 Sets are made using the set() builtin function. More about the data structures here below:
 
-* [Lists](##Lists)
-* [Tuples](##Tuples)
-* [Dicts](##Dicts)
-* [Strings](##Strings)
-* [Sets](##Sets)
-* [Frozensets](##Frozensets)
+* [Lists](#Lists)
+* [Tuples](#Tuples)
+* [Dicts](#Dicts)
+* [Strings](#Strings)
+* [Sets](#Sets)
+* [Frozensets](#Frozensets)
 
 There are additional data structures available in the [collections](##The collections module) and [heapq](##The heapq module) modules for instance.
 
