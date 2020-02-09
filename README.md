@@ -27,7 +27,7 @@ Sets are made using the set() builtin function. More about the data structures h
 * [Sets](#Sets)
 * [Frozensets](#Frozensets)
 
-There are additional data structures available in the [collections](#The collections module) and [heapq](#The heapq module) modules for instance.
+There are additional data structures available in the [collections](#The_collections_module) and [heapq](#The_heapq_module) modules for instance.
 
 ## Lists
 
